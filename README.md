@@ -1,22 +1,29 @@
 # SiMEE for Windows
 
-SiMEE is SEERO's Simplified Mechanistic-Empirical Evaluation desktop application.
+SiMEE is SEERO's Asphalt Pavement Design Tool.
 
 ## Download
 
-[Download SiMEE 0.1.1-alpha.1 for Windows x64](https://github.com/mohammedsadeq/SiMEE-downloads/releases/download/v0.1.1-alpha.1/SiMEE-Setup-0.1.1-alpha.1.zip)
+[Download the latest SiMEE ZIP for Windows x64](https://github.com/mohammedsadeq/SiMEE-downloads/releases/latest/download/SiMEE-Setup.zip)
 
-This is an alpha prerelease for invited testers. Windows 10 version 1809 or newer (x64 compatible)
-is required. The installer includes the .NET runtime and installs for the current user.
+Current release: [SiMEE 0.1.2](https://github.com/mohammedsadeq/SiMEE-downloads/releases/tag/v0.1.2), published 7 November 2026.
 
-Download the ZIP package, right-click it and choose **Extract All**. Run the Setup file inside, open SiMEE, and sign in using your account email and the password you chose through the setup email.
-Downloading the installer does not create an account or grant application access.
+Windows 10 version 1809 or newer (x64 compatible) is required. The installer includes the .NET runtime and installs for the current Windows user.
 
-The installer is currently unsigned. Windows may show an unknown-publisher warning.
-You can compare the installer's SHA-256 checksum with the checksum file attached to the release.
+1. Download the ZIP, right-click it and choose **Extract All**.
+2. Save your work and close SiMEE, then run the Setup file inside the extracted folder.
+3. Open SiMEE and sign in using your account email and the password you chose through the setup email.
+
+Existing users can install the new version over their current installation without uninstalling. Saved projects and local preferences are retained.
+
+[Request access](https://www.seeroeng.com/tools) · [User manual](https://www.seeroeng.com/simee-help)
+
+Downloading does not create a user account or grant application access. New requests require administrator approval. Approved users receive a secure password-setup link and download instructions by email.
+
+The installer is unsigned. SHA256SUMS.txt is attached to each release so you can verify the ZIP and the installer it contains.
 
 ## Support
 
-Contact [SiMEE@seeroeng.com](mailto:SiMEE@seeroeng.com).
+[SiMEE@seeroeng.com](mailto:SiMEE@seeroeng.com)
 
 This repository contains installer downloads and release information. Application source code is maintained separately.
