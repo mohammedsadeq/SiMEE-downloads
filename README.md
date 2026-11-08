@@ -4,13 +4,13 @@ SiMEE is SEERO's Asphalt Pavement Design Tool.
 
 ## Download
 
-[Download the latest SiMEE ZIP for Windows x64](https://github.com/mohammedsadeq/SiMEE-downloads/releases/latest/download/SiMEE-Setup.zip)
+[Open the latest SiMEE download page for Windows x64](https://github.com/mohammedsadeq/SiMEE-downloads/releases/latest)
 
 Current release: [SiMEE 0.1.2](https://github.com/mohammedsadeq/SiMEE-downloads/releases/tag/v0.1.2), published 7 November 2026.
 
 Windows 10 version 1809 or newer (x64 compatible) is required. The installer includes the .NET runtime and installs for the current Windows user.
 
-1. Download the ZIP, right-click it and choose **Extract All**.
+1. Open the download page in Chrome or Edge. Under **Assets**, select **SiMEE-Setup.zip**, then right-click the downloaded ZIP and choose **Extract All**.
 2. Save your work and close SiMEE, then run the Setup file inside the extracted folder.
 3. Open SiMEE and sign in using your account email and the password you chose through the setup email.
 
